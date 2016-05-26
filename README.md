@@ -1,2 +1,3 @@
 # notebook_playground
-Notebooks for playing around with datasets etc.
+Notebooks for playing around with datasets and experimenting with
+data science and machine learning.
